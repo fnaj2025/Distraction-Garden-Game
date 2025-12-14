@@ -1,0 +1,23 @@
+{
+  "1": [
+    {"text": "Scroll media sosial tanpa tujuan itu membuang waktu produktif.", "answer": true},
+    {"text": "Semua konten di TikTok baik untuk perkembangan mental remaja.", "answer": false},
+    {"text": "Notifikasi yang terlalu sering bisa mengganggu konsentrasi.", "answer": true},
+    {"text": "Terlalu lama menatap layar bisa menyebabkan mata lelah dan kering.", "answer": true},
+    {"text": "Digital detox berarti harus menghapus semua aplikasi di smartphone.", "answer": false}
+  ],
+  "2": [
+    {"text": "Jumlah like dan follower tidak mempengaruhi kebahagiaan seseorang sama sekali.", "answer": false},
+    {"text": "Terus-menerus melihat berita negatif bisa meningkatkan rasa cemas berlebihan.", "answer": true},
+    {"text": "Menggunakan gadget sambil tiduran lebih sehat daripada sambil duduk.", "answer": false},
+    {"text": "Membandingkan kehidupan sendiri dengan highlight orang di media sosial membuat tidak percaya diri.", "answer": true},
+    {"text": "Lebih baik punya waktu berkualitas di gadget dibandingkan scroll lama tapi tanpa tujuan.", "answer": true}
+  ],
+  "3": [
+    {"text": "Fitur 'scroll tak berhenti' di aplikasi dirancang untuk membuat kita offline lebih lama.", "answer": false},
+    {"text": "Semua platform media sosial sengaja dirancang oleh psikolog untuk membuat kecanduan.", "answer": false},
+    {"text": "Digital minimalism berarti tidak boleh menggunakan gadget sama sekali.", "answer": false},
+    {"text": "Rasa takut ketinggalan tren (FOMO) dipengaruhi oleh cara otak merespon reward.", "answer": true},
+    {"text": "Ekonomi perhatian adalah sistem dimana perusahaan bersaing untuk mendapatkan waktu dan fokus kita.", "answer": true}
+  ]
+}
